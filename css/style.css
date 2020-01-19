@@ -52,7 +52,7 @@ img{
 
 /* SHOWCASE */
 #showcase{
-  background:url('../images/showcase.jpg') no-repeat center center;
+  background:url('../img/showcase.jpg') no-repeat center center;
   border-bottom:1px solid #56a79a;
   margin-bottom:30px;
 }
