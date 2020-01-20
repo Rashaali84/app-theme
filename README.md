@@ -16,7 +16,7 @@ The Motivation behind this project is to get more comfortable with branching and
 ## Screenshots
 This is a screen-shot of the final live demo of this project.
 
-![screenshot](./img/screenshot.jpg)
+![screenshot](./img/screen-shot.jpg)
 
 
 ## Technologies
