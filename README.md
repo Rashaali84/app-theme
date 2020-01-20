@@ -1,5 +1,5 @@
 # app-theme
-a try to study branching and also get familiar with FlexBoxGrid ,  which is a lightweight Flexbox based grid system to align elements easily
+A try to study branching and also get familiar with FlexBoxGrid ,  which is a lightweight Flexbox based grid system to align elements easily
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
