@@ -35,16 +35,15 @@ Eech one of them is mapped to one or more branches as follows
 
 | User-Story Name        | Branch Name        
 | ------------- |:-------------:| 
-
-| __CreateTheSkeltonHtmlTagsForMainLandingPage__ | add-header-navbar-logo  
-| __CreateTheSkeltonHtmlTagsForMainLandingPage__ | create-basic-folders-pages
-| __CreateTheMiddleSectionsForTheHtmlIndexPage__ | add-middlesections-indexpage
-|  __CreateStyleFileForTheMainLandingPage__ |  update-stylefile-forindexpage
-| __CreateServices&About&ContactPages__  | update-about-htmlpage
-| __CreateServices&About&ContactPages__  | update-services-htmlpage
-| __CreateServices&About&ContactPages__ | update-contact-htmlpage
+|  __CreateTheSkeltonHtmlTagsForMainLandingPage__  | add-header-navbar-logo 
+| __CreateTheSkeltonHtmlTagsForMainLandingPage__ | create-basic-folders-pages 
+| __CreateTheMiddleSectionsForTheHtmlIndexPage__ | add-middlesections-indexpage 
+|  __CreateStyleFileForTheMainLandingPage__ |  update-stylefile-forindexpage 
+| __CreateServices&About&ContactPages__  | update-about-htmlpage 
+| __CreateServices&About&ContactPages__  | update-services-htmlpage 
+| __CreateServices&About&ContactPages__ | update-contact-htmlpage  
 | __AddCssCodeForLinkedPages__ | update-style-linkedpages 
-| __AddResponsiveEdge__ | add-style-mediaqueries
+| __AddResponsiveEdge__ | add-style-mediaqueries |
   
 
 ## Status
